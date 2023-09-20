@@ -1,0 +1,7 @@
+C:\Users\usuario\OneDrive\Escritorio\segundo semestre\prog2\prácticas\practico hogar\practicohogar\practicohogar\obj\Debug\practicohogar.csproj.AssemblyReference.cache
+C:\Users\usuario\OneDrive\Escritorio\segundo semestre\prog2\prácticas\practico hogar\practicohogar\practicohogar\obj\Debug\practicohogar.csproj.CoreCompileInputs.cache
+C:\Users\usuario\OneDrive\Escritorio\segundo semestre\prog2\prácticas\practico hogar\practicohogar\practicohogar\bin\Debug\practicohogar.exe.config
+C:\Users\usuario\OneDrive\Escritorio\segundo semestre\prog2\prácticas\practico hogar\practicohogar\practicohogar\bin\Debug\practicohogar.exe
+C:\Users\usuario\OneDrive\Escritorio\segundo semestre\prog2\prácticas\practico hogar\practicohogar\practicohogar\bin\Debug\practicohogar.pdb
+C:\Users\usuario\OneDrive\Escritorio\segundo semestre\prog2\prácticas\practico hogar\practicohogar\practicohogar\obj\Debug\practicohogar.exe
+C:\Users\usuario\OneDrive\Escritorio\segundo semestre\prog2\prácticas\practico hogar\practicohogar\practicohogar\obj\Debug\practicohogar.pdb
